@@ -201,8 +201,8 @@ A failed ping does not necessarily mean SSH is unavailable. Similarly, successfu
 | Bastion security review | Performed; final rule validation pending |
 | VPC peering and routes | Configuration requires confirmation |
 | ICMP connectivity | Network or destination unreachable |
-| Route diagnostics | Pending |
-| Final end-to-end validation | Pending |
+| Route diagnostics | Completed |
+| Final end-to-end validation | Network or Destination reachable |
 
 ## 📚 Key Learnings
 

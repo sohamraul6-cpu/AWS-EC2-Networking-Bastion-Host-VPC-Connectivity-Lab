@@ -1,4 +1,4 @@
-# AWS-EC2-Networking-Bastion-Host-VPC-Connectivity-Lab
+
 # AWS EC2 Networking, Bastion Host & VPC Connectivity Lab
 
 ## 📌 Project Overview
